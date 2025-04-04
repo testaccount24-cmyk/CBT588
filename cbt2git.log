@@ -1,0 +1,116 @@
+2025-04-04 12:14:45.340593 - Received CBT.V508.FILE588.PDS from FILE588.XMI 
+2025-04-04 12:14:45.341521 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE588.PDS, moved to PDS/$$$#DATE
+2025-04-04 12:14:45.341661 - Found $CHANGES.txt (text/plain) in CBT.V508.FILE588.PDS, moved to PDS/$CHANGES
+2025-04-04 12:14:45.341799 - Found $DOC.txt (text/plain) in CBT.V508.FILE588.PDS, moved to PDS/$DOC
+2025-04-04 12:14:45.341959 - Found $INSTALL.txt (text/plain) in CBT.V508.FILE588.PDS, moved to PDS/$INSTALL
+2025-04-04 12:14:45.342112 - Found $IRXFLOC.txt (text/plain) in CBT.V508.FILE588.PDS, moved to PDS/$IRXFLOC
+2025-04-04 12:14:45.342247 - Found $OPEN.txt (text/plain) in CBT.V508.FILE588.PDS, moved to PDS/$OPEN
+2025-04-04 12:14:45.342393 - Found $SYSCNTL.txt (text/plain) in CBT.V508.FILE588.PDS, moved to PDS/$SYSCNTL
+2025-04-04 12:14:45.342511 - Found @FILE588.txt (text/plain) in CBT.V508.FILE588.PDS, moved to PDS/@FILE588
+2025-04-04 12:14:45.342944 - Found ASM.xmi (application/xmit) in CBT.V508.FILE588.PDS, moved to PDS/ASM.xmi
+2025-04-04 12:14:45.719618 - Received SYS3.UTILITY.SOURCE.TEST from ASM.xmi 
+2025-04-04 12:14:45.720693 - Found $OPENR.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/$OPENR
+2025-04-04 12:14:45.720841 - Found A31ESD.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/A31ESD
+2025-04-04 12:14:45.721013 - Found DSN4DDN.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/DSN4DDN
+2025-04-04 12:14:45.721169 - Found IRX@MGCR.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/IRX@MGCR
+2025-04-04 12:14:45.721304 - Found IRXF@ALC.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/IRXF@ALC
+2025-04-04 12:14:45.721422 - Found IRXF@DDN.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/IRXF@DDN
+2025-04-04 12:14:45.721547 - Found IRXF@DOM.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/IRXF@DOM
+2025-04-04 12:14:45.721671 - Found IRXF@DSN.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/IRXF@DSN
+2025-04-04 12:14:45.721788 - Found IRXF@FWT.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/IRXF@FWT
+2025-04-04 12:14:45.721900 - Found IRXF@PDS.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/IRXF@PDS
+2025-04-04 12:14:45.722020 - Found IRXF@PGM.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/IRXF@PGM
+2025-04-04 12:14:45.722160 - Found IRXF@SRT.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/IRXF@SRT
+2025-04-04 12:14:45.722290 - Found IRXF@WTO.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/IRXF@WTO
+2025-04-04 12:14:45.722425 - Found IRXFLOCJ.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/IRXFLOCJ
+2025-04-04 12:14:45.722547 - Found RACFCHK.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/RACFCHK
+2025-04-04 12:14:45.722679 - Found SVMALC6.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/SVMALC6
+2025-04-04 12:14:45.722810 - Found SVMLOAD.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/SVMLOAD
+2025-04-04 12:14:45.722961 - Found SVM00000.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/SVM00000
+2025-04-04 12:14:45.723078 - Found SVM0010.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/SVM0010
+2025-04-04 12:14:45.723208 - Found SVM0028.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/SVM0028
+2025-04-04 12:14:45.723323 - Found SVM0030.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/SVM0030
+2025-04-04 12:14:45.723468 - Found SVM0033.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/SVM0033
+2025-04-04 12:14:45.723590 - Found WTP.jcl (text/plain) in SYS3.UTILITY.SOURCE.TEST, moved to ASM/WTP
+2025-04-04 12:14:45.725290 - Found EXEC.xmi (application/xmit) in CBT.V508.FILE588.PDS, moved to PDS/EXEC.xmi
+2025-04-04 12:14:46.063220 - Received SVM    .TEST.EXEC.NEW from EXEC.xmi 
+2025-04-04 12:14:46.064368 - Found #.txt (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/#
+2025-04-04 12:14:46.064521 - Found #CONS.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/#CONS
+2025-04-04 12:14:46.064660 - Found #GETJOB.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/#GETJOB
+2025-04-04 12:14:46.064794 - Found CHKPROD.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/CHKPROD
+2025-04-04 12:14:46.064917 - Found CHKTEST.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/CHKTEST
+2025-04-04 12:14:46.065037 - Found DCPY.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/DCPY
+2025-04-04 12:14:46.065159 - Found DSNSTAT.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/DSNSTAT
+2025-04-04 12:14:46.065283 - Found INSD.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/INSD
+2025-04-04 12:14:46.065419 - Found MAPPGM.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/MAPPGM
+2025-04-04 12:14:46.065533 - Found PDSSTAT.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/PDSSTAT
+2025-04-04 12:14:46.065667 - Found PW.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/PW
+2025-04-04 12:14:46.065786 - Found PWD.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/PWD
+2025-04-04 12:14:46.065904 - Found PWDR.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/PWDR
+2025-04-04 12:14:46.066024 - Found PWI.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/PWI
+2025-04-04 12:14:46.066135 - Found PWP.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/PWP
+2025-04-04 12:14:46.066254 - Found PWR.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/PWR
+2025-04-04 12:14:46.066408 - Found PWX.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/PWX
+2025-04-04 12:14:46.066525 - Found RCTEST.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/RCTEST
+2025-04-04 12:14:46.066668 - Found SCPY.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/SCPY
+2025-04-04 12:14:46.066800 - Found SHUTPROD.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/SHUTPROD
+2025-04-04 12:14:46.066939 - Found SHUTTEST.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/SHUTTEST
+2025-04-04 12:14:46.067058 - Found SYSACTV.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/SYSACTV
+2025-04-04 12:14:46.067200 - Found SYSCNTL.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/SYSCNTL
+2025-04-04 12:14:46.067338 - Found SYSGETL.rexx (text/plain) in SVM    .TEST.EXEC.NEW, moved to EXEC/SYSGETL
+2025-04-04 12:14:46.068318 - Found JCL.xmi (application/xmit) in CBT.V508.FILE588.PDS, moved to PDS/JCL.xmi
+2025-04-04 12:14:46.083222 - Received SYS1.COMMON.PROCLIB from JCL.xmi 
+2025-04-04 12:14:46.083648 - Found CHKTASK.txt (text/plain) in SYS1.COMMON.PROCLIB, moved to JCL/CHKTASK
+2025-04-04 12:14:46.083984 - Found LOAD.xmi (application/xmit) in CBT.V508.FILE588.PDS, moved to PDS/LOAD.xmi
+2025-04-04 12:14:46.119698 - Received SYS3.UTILITY.LOADLIB.TEST from LOAD.xmi 
+2025-04-04 12:14:46.120402 - Found alias $CLOSE to $OPEN in SYS3.UTILITY.LOADLIB.TEST, moved to PDS/$CLOSE
+2025-04-04 12:14:46.120611 - Found $OPEN.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/$OPEN
+2025-04-04 12:14:46.120669 - Found alias $OPENI to $OPEN in SYS3.UTILITY.LOADLIB.TEST, moved to PDS/$OPENI
+2025-04-04 12:14:46.120714 - Found alias $OPENU to $OPEN in SYS3.UTILITY.LOADLIB.TEST, moved to PDS/$OPENU
+2025-04-04 12:14:46.120757 - Found alias $OPENW to $OPEN in SYS3.UTILITY.LOADLIB.TEST, moved to PDS/$OPENW
+2025-04-04 12:14:46.120800 - Found alias $READ to $OPEN in SYS3.UTILITY.LOADLIB.TEST, moved to PDS/$READ
+2025-04-04 12:14:46.120843 - Found alias $WRITE to $OPEN in SYS3.UTILITY.LOADLIB.TEST, moved to PDS/$WRITE
+2025-04-04 12:14:46.120994 - Found A31ESD.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/A31ESD
+2025-04-04 12:14:46.121132 - Found DSN4DDN.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/DSN4DDN
+2025-04-04 12:14:46.121284 - Found IRX@MGCR.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/IRX@MGCR
+2025-04-04 12:14:46.121427 - Found IRXF@ALC.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/IRXF@ALC
+2025-04-04 12:14:46.121557 - Found IRXF@CND.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/IRXF@CND
+2025-04-04 12:14:46.121709 - Found IRXF@DDN.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/IRXF@DDN
+2025-04-04 12:14:46.122004 - Found IRXF@DOM.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/IRXF@DOM
+2025-04-04 12:14:46.122148 - Found IRXF@DSN.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/IRXF@DSN
+2025-04-04 12:14:46.122207 - Found alias IRXF@FRE to IRXF@ALC in SYS3.UTILITY.LOADLIB.TEST, moved to PDS/IRXF@FRE
+2025-04-04 12:14:46.122343 - Found IRXF@FWT.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/IRXF@FWT
+2025-04-04 12:14:46.122455 - Found IRXF@PDS.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/IRXF@PDS
+2025-04-04 12:14:46.122624 - Found IRXF@PGM.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/IRXF@PGM
+2025-04-04 12:14:46.122761 - Found IRXF@SRT.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/IRXF@SRT
+2025-04-04 12:14:46.122897 - Found IRXF@WTO.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/IRXF@WTO
+2025-04-04 12:14:46.123032 - Found IRXFLOC.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/IRXFLOC
+2025-04-04 12:14:46.123169 - Found RACFCHK.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/RACFCHK
+2025-04-04 12:14:46.123323 - Found SVMALC6.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/SVMALC6
+2025-04-04 12:14:46.123381 - Found alias SVMDEL6 to SVMALC6 in SYS3.UTILITY.LOADLIB.TEST, moved to PDS/SVMDEL6
+2025-04-04 12:14:46.123529 - Found SVMLOAD.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/SVMLOAD
+2025-04-04 12:14:46.123669 - Found SVM00000.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/SVM00000
+2025-04-04 12:14:46.123814 - Found SVM0010.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/SVM0010
+2025-04-04 12:14:46.123963 - Found SVM0028.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/SVM0028
+2025-04-04 12:14:46.124099 - Found SVM0030.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/SVM0030
+2025-04-04 12:14:46.124229 - Found SVM0033.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/SVM0033
+2025-04-04 12:14:46.124369 - Found TESTJFCB.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/TESTJFCB
+2025-04-04 12:14:46.124510 - Found WTP.bin (application/octet-stream) in SYS3.UTILITY.LOADLIB.TEST, moved to LOAD/WTP
+2025-04-04 12:14:46.125785 - Found MACLIB.xmi (application/xmit) in CBT.V508.FILE588.PDS, moved to PDS/MACLIB.xmi
+2025-04-04 12:14:46.241060 - Received SYS3.UTILITY.MACLIB.TEST from MACLIB.xmi 
+2025-04-04 12:14:46.241903 - Found $CTAB.txt (text/plain) in SYS3.UTILITY.MACLIB.TEST, moved to MACLIB/$CTAB
+2025-04-04 12:14:46.242047 - Found $DTAB.txt (text/plain) in SYS3.UTILITY.MACLIB.TEST, moved to MACLIB/$DTAB
+2025-04-04 12:14:46.242173 - Found $NTAB.txt (text/plain) in SYS3.UTILITY.MACLIB.TEST, moved to MACLIB/$NTAB
+2025-04-04 12:14:46.242294 - Found $PARM.txt (text/plain) in SYS3.UTILITY.MACLIB.TEST, moved to MACLIB/$PARM
+2025-04-04 12:14:46.242425 - Found $PTAB.txt (text/plain) in SYS3.UTILITY.MACLIB.TEST, moved to MACLIB/$PTAB
+2025-04-04 12:14:46.242541 - Found $RLD.txt (text/plain) in SYS3.UTILITY.MACLIB.TEST, moved to MACLIB/$RLD
+2025-04-04 12:14:46.242660 - Found $RLDATA.txt (text/plain) in SYS3.UTILITY.MACLIB.TEST, moved to MACLIB/$RLDATA
+2025-04-04 12:14:46.242787 - Found BEGIN.txt (text/plain) in SYS3.UTILITY.MACLIB.TEST, moved to MACLIB/BEGIN
+2025-04-04 12:14:46.243119 - Found FIN.txt (text/plain) in SYS3.UTILITY.MACLIB.TEST, moved to MACLIB/FIN
+2025-04-04 12:14:46.243297 - Found PAR0010.txt (text/plain) in SYS3.UTILITY.MACLIB.TEST, moved to MACLIB/PAR0010
+2025-04-04 12:14:46.243426 - Found REGS.txt (text/plain) in SYS3.UTILITY.MACLIB.TEST, moved to MACLIB/REGS
+2025-04-04 12:14:46.243553 - Found SAY.txt (text/plain) in SYS3.UTILITY.MACLIB.TEST, moved to MACLIB/SAY
+2025-04-04 12:14:46.243672 - Found SVMPAR6.txt (text/plain) in SYS3.UTILITY.MACLIB.TEST, moved to MACLIB/SVMPAR6
+2025-04-04 12:14:46.243789 - Found SVM00000.txt (text/plain) in SYS3.UTILITY.MACLIB.TEST, moved to MACLIB/SVM00000
+2025-04-04 12:14:46.243907 - Found WORK.txt (text/plain) in SYS3.UTILITY.MACLIB.TEST, moved to MACLIB/WORK
+2025-04-04 12:14:46.244621 - Found RECEIVE.rexx (text/plain) in CBT.V508.FILE588.PDS, moved to PDS/RECEIVE
